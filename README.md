@@ -1,4 +1,8 @@
 # Tensorflow_Intro
-For Pysprings meetup group
+For Pysprings group.
 
-Directions: Clone this repository to your local computer. Start up jupyter notebooks. Enjoy.
+Directions: 
+- Clone this repository to your local computer. 
+- Create virtual environemnt with the dependencies from the requirements.txt file.
+- Start Jupyter Notebook.
+- Enjoy.
